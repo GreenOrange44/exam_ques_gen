@@ -1,0 +1,7 @@
+transformers
+torch
+sentence-transformers
+chromadb
+gradio
+pdfplumber
+langchain

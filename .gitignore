@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+*.bin
+data/raw/*
+data/processed/*
+models/*
+.env
+.DS_Store
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Ignore Python virtual environments
+venv/
+.env/
+# Ignore logs
+logs/
+# Ignore temporary files
+*.tmp
+*.log
